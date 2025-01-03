@@ -13,6 +13,9 @@ namespace lcd4pico
         using LCD4PicoBase<bit_mode>::setup;
         using LCD4PicoBase<bit_mode>::setEntryMode;
         using LCD4PicoBase<bit_mode>::displayControl;
+        using LCD4PicoBase<bit_mode>::writeMode;
+        using LCD4PicoBase<bit_mode>::setRegister;
+        using LCD4PicoBase<bit_mode>::writeData;
 
         /**
          * @brief Clears entire display and moves the cursor to the head of the first line.
