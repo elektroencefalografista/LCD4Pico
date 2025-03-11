@@ -1,3 +1,5 @@
+#### Original LCD4Pico library modified to make the raw write to LCD functions public and accessible. Otherwise unchanged. Original description below.
+
 <h1 align="center">LCD4Pico</h1>
 
 <h1 align="center">
